@@ -1,19 +1,33 @@
 {
-  "name": "n8n-nodes-pdfkit",
+  "name": "n8n-nodes-kme-pdfkit",
   "version": "0.1.2",
-  "description": "Node for using PDFKit to tranform images into PDF, more functionality may be added later.",
+  "description": "An n8n custom node using PDFKit to convert images into PDFs. Forked from bramkn/n8n-nodes-pdfkit.",
   "keywords": [
-    "n8n-community-node-package"
+    "n8n",
+    "n8n-node",
+    "pdfkit",
+    "image-to-pdf",
+    "haboub",
+    "kahleel-me"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/bramkn/n8n-nodes-pdfkit.git",
+  "homepage": "https://github.com/haboub/n8n-nodes-pdfkit#readme",
   "author": {
     "name": "Bram Knuever",
     "email": "bram@knitco.nl"
   },
+  "contributors": [
+    {
+      "name": "Khaleel Alhaboub",
+      "email": "hello@khaleel.me"
+    }
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/bramkn/n8n-nodes-pdfkit.git"
+    "url": "git+https://github.com/haboub/n8n-nodes-pdfkit.git"
+  },
+  "bugs": {
+    "url": "https://github.com/haboub/n8n-nodes-pdfkit/issues"
   },
   "main": "index.js",
   "scripts": {

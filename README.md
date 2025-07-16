@@ -1,11 +1,35 @@
-![Banner image](https://user-images.githubusercontent.com/10284570/173569848-c624317f-42b1-45a6-ab09-f0ea3c247648.png)
+# n8n-nodes-kme-pdfkit
 
-# n8n-nodes-pdfkit
+An [n8n](https://n8n.io) custom node using [PDFKit](https://pdfkit.org/) to convert images into PDF files.
 
-Use this node to convert images to PDF. At the moment only one option available to comnvert all images on a single item to a pdf. (will do this for each item)
-![image](https://github.com/bramkn/n8n-nodes-pdfkit/assets/74856333/b18cf61e-f1fb-4165-859f-c95a01ecb982)
+This node is designed to work inside your n8n workflow, allowing you to programmatically generate PDFs from images.
 
+---
+
+## Features
+
+- 🖼️ Convert one or more images into a single PDF
+- 🧱 Works as a node inside n8n
+- ⚙️ Easy to extend or customize
+
+---
+
+## Installation
+
+Coming soon (manual install via local node directory for now).
+
+---
 
 ## License
 
-[MIT](https://github.com/n8n-io/n8n-nodes-starter/blob/master/LICENSE.md)
+MIT
+
+---
+
+## Attribution
+
+This project is **forked from** [bramkn/n8n-nodes-pdfkit](https://github.com/bramkn/n8n-nodes-pdfkit)
+Originally developed by **Bram Knuever**
+Maintained and extended by **[Khaleel Alhaboub](https://github.com/haboub)**
+
+> If you use this in production or make improvements, feel free to contribute or open issues!
